@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my apna college demo repo
+this is my apna college demo repository
+my name is manish hemnani
